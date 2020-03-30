@@ -9,10 +9,10 @@ public class Assign5 {
         demoFCFS();
         System.out.println();
 
-//        System.out.println("---------------------------------------------------------");
-//        demoSJF();
-//        System.out.println();
-//
+        System.out.println("---------------------------------------------------------");
+        demoSJF();
+        System.out.println();
+
 //        System.out.println("---------------------------------------------------------");
 //        demoSRTF();
 //        System.out.println();

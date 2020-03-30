@@ -1,5 +1,4 @@
 import java.util.LinkedList;
-import java.util.Queue;
 
 public class SchedulerFCFS extends SchedulerBase implements Scheduler {
     private Platform platform;
