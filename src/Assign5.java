@@ -13,9 +13,9 @@ public class Assign5 {
         demoSJF();
         System.out.println();
 
-//        System.out.println("---------------------------------------------------------");
-//        demoSRTF();
-//        System.out.println();
+        System.out.println("---------------------------------------------------------");
+        demoSRTF();
+        System.out.println();
 //
 //        System.out.println("---------------------------------------------------------");
 //        demoPriority();
