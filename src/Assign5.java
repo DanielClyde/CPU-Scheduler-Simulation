@@ -16,14 +16,14 @@ public class Assign5 {
         System.out.println("---------------------------------------------------------");
         demoSRTF();
         System.out.println();
-//
-//        System.out.println("---------------------------------------------------------");
-//        demoPriority();
-//        System.out.println();
-//
-//        System.out.println("---------------------------------------------------------");
-//        demoRR();
-//        System.out.println();
+
+        System.out.println("---------------------------------------------------------");
+        demoPriority();
+        System.out.println();
+
+        System.out.println("---------------------------------------------------------");
+        demoRR();
+        System.out.println();
     }
 
     /**
